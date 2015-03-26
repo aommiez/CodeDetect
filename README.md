@@ -11,6 +11,7 @@
 
 - Login
 - Set File Type Detect
+- Cron Job 
 
 ### Request or Support
 - YT Demo : comming soon
