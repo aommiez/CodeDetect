@@ -14,7 +14,8 @@
 - Set Time Check [ Cron job ]
 
 ### Request or Support
-- YT Demo : comming soon
+- Site Demo : http://olo.wtf/demo/pcd/CodeDetect.php
+- YT How to use : https://www.youtube.com/watch?v=HEAUVVHg1gc
 - FB : https://www.facebook.com/aommiez
 - TW : http://www.twitch.tv/aommiez
 - Email : aommiez@gmail.com
