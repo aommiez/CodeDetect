@@ -4,6 +4,8 @@
 
 ### Version
 1.0.0
+- Detect Code File PHP
+- Send Email File Not Math
 
 ### Next Function
 
