@@ -5,9 +5,10 @@
 ### Version
 1.0.0
 
-### Tech
+### Next Function
 
-* [PHP] 
+- Login
+- Set File Type Detect
 
 ### Request or Support
 - YT Demo : comming soon
