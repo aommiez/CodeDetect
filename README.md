@@ -1,5 +1,5 @@
 # Code Detect
- code detect lite security script very very small no database
+ code detect lite security script very very small and no database
 
 
 ### Version
