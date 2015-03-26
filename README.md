@@ -1,6 +1,6 @@
 # Code Detect
  code detect lite security script very very small and no database
-
+ easy integate you project
 
 ### Version
 1.0.0
