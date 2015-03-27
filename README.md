@@ -3,14 +3,14 @@
  easy integate you project
 
 ### Version
-1.0.0
+1.1
 - Detect Code File PHP
 - Send Email File Not Math
-
+- Set File Type Detect
+- 
 ### Next Function
 
 - Login
-- Set File Type Detect
 - Set Time Check [ Cron job ]
 
 ### Request or Support
