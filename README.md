@@ -8,6 +8,8 @@
 - Send Email File Not Math
 - Set File Type Detect
 - Set File Not Detect
+- Show Line Number Code Edit
+
 ### Next Function
 
 - Login
