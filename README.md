@@ -9,11 +9,11 @@
 - Set File Type Detect
 - Set File Not Detect
 - Show Line Number Code Edit
-
+- Support Cron Job 
 ### Next Function
 
 - Login
-- Set Time Check [ Cron job ]
+
 
 ### Request or Support
 - Site Demo : http://olo.wtf/demo/pcd/CodeDetect.php
