@@ -9,10 +9,11 @@
 - Set File Type Detect
 - Set File Not Detect
 - Show Line Number Code Edit
-- Support Cron Job 
+- Support Cron Job
+- Auth Login
 ### Next Function
 
-- Login
+- bla bla bla
 
 
 ### Request or Support
